@@ -1,0 +1,56 @@
+.wrapper {
+	background-image: url("../img/BryanRowalnd3-large.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: bottom;
+}
+
+.img-margin-top {
+	margin-top: 80px;
+}
+
+h2 {
+	color: white;
+}
+
+.copyright {
+	color: white;
+}
+
+.iceCastles {
+	background-image: url("../img/Screen-Shot-2013-12-26-at-1.24.22-PM.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 300px;
+	color: white;
+	border-color: black;
+}
+
+.iceHotel {
+	background-image: url("../img/PH_121222_2700-1140x760.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 320px;
+	color: white;
+	border-color: black;
+}
+
+.harbinIceFestival {
+	background-image: url("../img/i09_17492701.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 300px;
+	color: white;
+	border-color: black;
+}
+
+footer {
+	text-align: left;
+	border: 1px solid black;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 60px;
+	background-color: #383838;
+	padding: 4px;
+}
