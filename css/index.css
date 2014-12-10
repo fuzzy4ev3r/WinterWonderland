@@ -46,11 +46,15 @@ h2 {
 }
 
 footer {
-	text-align: left;
-	border: 1px solid black;
-	margin-right: 250px;
-	margin-left: 250px;
+	border: 1px solid #006699;
 	margin-top: 60px;
-	background-color: #383838;
+	background-color: #000066;
+	padding: 4px;
+}
+
+.menu {
+	background-color: #000066;
+	margin-bottom: 20px;
+	border: 1px solid #006699;
 	padding: 4px;
 }
